@@ -2,7 +2,7 @@
 This repository contains projects that are made using Intel OneAPI services
 ## cnn_animals.ipynb
 This project implements a Convolutional Neural Network (CNN) for classifying images of animals. The goal is to accurately identify different animal species from input images using deep learning techniques.
-### features
+### Features
 - **Animal Species Classification:** The CNN is capable of accurately classifying images of various animal species, including cats,dogs and pandas.
 
 - **Multi-Class Classification:** The model is trained to classify images into different categories, allowing it to distinguish between cats, dogs, and pandas.
@@ -11,7 +11,7 @@ This project implements a Convolutional Neural Network (CNN) for classifying ima
 ### Data
 The dataset used for training and testing the model consists of images of various animal species. You can find the dataset from [Dataset Link](https://www.kaggle.com/datasets/sohampatel26/animal-detection-dataset-cats-dogs-and-pandas/download?datasetVersionNumber=1). Ensure the dataset is appropriately labeled for optimal results.
 
-## Model Architecture
+### Model Architecture
 The CNN architecture used for this project consists of multiple convolutional and pooling layers, followed by fully connected layers. The details of the model architecture can be found in the notebook.
 ### Results
 #### Model Performance
@@ -25,7 +25,7 @@ Explore the implementation details and code in the [Jupyter Notebook](https://gi
 ### Usage
 To view the Jupyter Notebook in a read-only format, click on the [Jupyter Notebook](https://github.com/srithak1204/OneAPI_Projects/blob/main/cnn_animals.ipynb) link. 
 ### Visualizations
-- **Training and Validation Loss Curves:**
+- **Training Loss Curves:**
 
 ![Loss Curves](https://github.com/srithak1204/OneAPI_Projects/blob/main/image.png)
 
