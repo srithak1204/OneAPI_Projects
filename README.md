@@ -8,4 +8,7 @@ This project implements a Convolutional Neural Network (CNN) for classifying ima
 - **Multi-Class Classification:** The model is trained to classify images into different categories, allowing it to distinguish between cats, dogs, and pandas.
 
 - **Customizable:** The project is designed to be adaptable to different datasets, making it easy to extend the classification capabilities to include additional animal categories.
+### Jupyter Notebook
+Explore the implementation details and code in the [Jupyter Notebook](link_to_notebook.ipynb) (read-only).
+
 
