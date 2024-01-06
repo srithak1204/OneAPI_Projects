@@ -29,5 +29,10 @@ To view the Jupyter Notebook in a read-only format, click on the [Jupyter Notebo
 
 ![Loss Curves](https://github.com/srithak1204/OneAPI_Projects/blob/main/image.png)
 
+### Benefits of oneAPI Integration
 
+- **Unified Programming Model**: oneAPI provided a unified programming model, allowing seamless integration of diverse hardware accelerators, streamlining development for both CPUs and GPUs in my animal CNN project.
+- **Optimized Performance**: Leveraging oneAPI's performance libraries and optimizations significantly improved the computational efficiency of my CNN model, resulting in faster training and inference times.
+
+- **Cross-Accelerator Portability**: With oneAPI, I achieved cross-accelerator portability, enabling my animal CNN to run efficiently across different hardware architectures without the need for extensive code modifications.
 
