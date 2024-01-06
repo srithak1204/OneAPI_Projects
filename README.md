@@ -9,7 +9,7 @@ This project implements a Convolutional Neural Network (CNN) for classifying ima
 
 - **Customizable:** The project is designed to be adaptable to different datasets, making it easy to extend the classification capabilities to include additional animal categories.
 ### Data
-The dataset used for training and testing the model consists of images of various animal species. You can find the dataset in the `animals.zip` file. Ensure the dataset is appropriately labeled for optimal results.
+The dataset used for training and testing the model consists of images of various animal species. You can find the dataset from [Dataset Link](https://www.kaggle.com/datasets/sohampatel26/animal-detection-dataset-cats-dogs-and-pandas/download?datasetVersionNumber=1). Ensure the dataset is appropriately labeled for optimal results.
 
 ## Model Architecture
 The CNN architecture used for this project consists of multiple convolutional and pooling layers, followed by fully connected layers. The details of the model architecture can be found in the notebook.
@@ -27,7 +27,7 @@ To view the Jupyter Notebook in a read-only format, click on the [Jupyter Notebo
 ### Visualizations
 - **Training and Validation Loss Curves:**
 
-![Loss Curves](path/to/loss_curves.png)
+![Loss Curves]((https://github.com/srithak1204/OneAPI_Projects/blob/main/image.png))
 
 
 
