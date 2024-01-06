@@ -16,18 +16,18 @@ The CNN architecture used for this project consists of multiple convolutional an
 ### Results
 #### Model Performance
 An overview of the model's performance:
-Training Accuracy: 100%
-Validation Accuracy: 70.33%
-Test Accuracy: 69.33%
+- Training Accuracy: 100%
+- Validation Accuracy: 70.33%
+- Test Accuracy: 69.33%
 
 ### Jupyter Notebook
 Explore the implementation details and code in the [Jupyter Notebook](https://github.com/srithak1204/OneAPI_Projects/blob/main/cnn_animals.ipynb).
 ### Usage
-To view the Jupyter Notebook in a read-only format, click on the [Jupyter Notebook]((https://github.com/srithak1204/OneAPI_Projects/blob/main/cnn_animals.ipynb)) link. 
+To view the Jupyter Notebook in a read-only format, click on the [Jupyter Notebook](https://github.com/srithak1204/OneAPI_Projects/blob/main/cnn_animals.ipynb) link. 
 ### Visualizations
 - **Training and Validation Loss Curves:**
 
-![Loss Curves]((https://github.com/srithak1204/OneAPI_Projects/blob/main/image.png))
+![Loss Curves](https://github.com/srithak1204/OneAPI_Projects/blob/main/image.png)
 
 
 
