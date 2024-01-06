@@ -8,4 +8,4 @@ This project implements a Convolutional Neural Network (CNN) for classifying ima
 - **Multi-Class Classification:** The model is trained to classify images into different categories, allowing it to distinguish between cats, dogs, and pandas.
 
 - **Customizable:** The project is designed to be adaptable to different datasets, making it easy to extend the classification capabilities to include additional animal categories.
-- **Modular Architecture:** The codebase is organized with a modular structure, enabling developers to modify and extend the model architecture, dataset, and other components easily.
+
