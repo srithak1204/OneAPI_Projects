@@ -6,6 +6,9 @@ This project implements a Convolutional Neural Network (CNN) for classifying ima
 - **Animal Species Classification:** The CNN is capable of accurately classifying images of various animal species, including cats,dogs and pandas.
 
 - **Multi-Class Classification:** The model is trained to classify images into different categories, allowing it to distinguish between cats, dogs, and pandas.
+- **Regularization Techniques**: Integration of regularization techniques (e.g., dropout) to prevent overfitting and enhance the generalization ability of the model.
+-**Activation Functions**: The choice of appropriate activation functions, such as ReLU or sigmoid, to introduce non-linearity into the network and capture complex relationships in the data.
+-**Loss Function**: Selection of an appropriate loss function, such as categorical cross-entropy, to measure the difference between predicted and true class probabilities during training.
 
 - **Customizable:** The project is designed to be adaptable to different datasets, making it easy to extend the classification capabilities to include additional animal categories.
 ### Data
